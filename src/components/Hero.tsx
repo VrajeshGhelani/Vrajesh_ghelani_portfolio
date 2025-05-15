@@ -71,15 +71,6 @@ const Hero = () => {
               >
                 <Linkedin size={20} />
               </a>
-              <a
-                href="https://vrajeshghelani.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gray-600 hover:text-portfolio-accent transition-colors"
-                aria-label="Website"
-              >
-                <Link size={20} />
-              </a>
             </div>
           </div>
 
