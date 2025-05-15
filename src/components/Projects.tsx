@@ -10,7 +10,7 @@ const projects = [
     title: "Weather App",
     description: "A user-friendly application that provides real-time weather information for any location around the world. It fetches data from a weather API and displays key metrics such as temperature, humidity, wind speed, and weather conditions with an intuitive and clean interface.",
     technologies: ["HTML", "CSS", "JavaScript", "React.js", "Weather API"],
-    link: "#",
+    link: "https://weather-app-hazel-five-80.vercel.app/",
     details: "This project demonstrates API integration, async/await, and responsive design principles."
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     title: "Tic Tac Toe Game",
     description: "Developed a classic Tic Tac Toe game with interactive UI, turn-based logic, and win/draw detection. Designed for 2-player local gameplay with a reset option and dynamic board updates.",
     technologies: ["HTML", "CSS", "JavaScript", "DOM Manipulation"],
-    link: "#",
+    link: "https://tic-tac-toe-amber-nine.vercel.app/",
     details: "This project demonstrates a strong understanding of DOM manipulation, event handling, and basic game logic development in a browser environment."
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     title: "Gemini Clone",
     description: "A Gemini Clone AI chatbot that allows users to interact naturally by asking questions or having conversations, mimicking the functionality of Google's Gemini AI.",
     technologies: ["React", "Tailwind CSS", "Gemini API"],
-    link: "#",
+    link: "https://gemini-clone-opal-three.vercel.app/",
     details: "It includes features like starting new chats, viewing recent chat history, and providing accurate responses using advanced AI models."
   }
 ];
